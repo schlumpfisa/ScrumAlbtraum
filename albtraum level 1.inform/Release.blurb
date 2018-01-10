@@ -1,28 +1,28 @@
 ! Blurb file created by Inform build 6M62
 
-status "C:\Program Files (x86)\Inform 7\Internal\Miscellany\CblorbModel.html" "C:\Users\Schlumpfisa 2\Git\ScrumAlbtraum\nightmare level 2.inform\Build\StatusCblorb.html"
+status "C:\Program Files (x86)\Inform 7\Internal\Miscellany\CblorbModel.html" "C:\Users\Schlumpfisa 2\Git\ScrumAlbtraum\albtraum level 1.inform\Build\StatusCblorb.html"
 
 
 ! Identification
 
-project folder "C:\Users\Schlumpfisa 2\Git\ScrumAlbtraum\nightmare level 2.inform"
-release to "C:\Users\Schlumpfisa 2\Git\ScrumAlbtraum\nightmare level 2.materials\Release"
+project folder "C:\Users\Schlumpfisa 2\Git\ScrumAlbtraum\albtraum level 1.inform"
+release to "C:\Users\Schlumpfisa 2\Git\ScrumAlbtraum\albtraum level 1.materials\Release"
 
 ! Blorb instructions
 
-storyfile leafname "nightmare.gblorb"
-storyfile "C:\Users\Schlumpfisa 2\Git\ScrumAlbtraum\nightmare level 2.inform\Build\output.ulx" include
-ifiction "C:\Users\Schlumpfisa 2\Git\ScrumAlbtraum\nightmare level 2.inform\Metadata.iFiction" include
+storyfile leafname "Albtraum.gblorb"
+storyfile "C:\Users\Schlumpfisa 2\Git\ScrumAlbtraum\albtraum level 1.inform\Build\output.ulx" include
+ifiction "C:\Users\Schlumpfisa 2\Git\ScrumAlbtraum\albtraum level 1.inform\Metadata.iFiction" include
 cover "C:\Program Files (x86)\Inform 7\Internal\Miscellany\Cover.jpg"
 picture 1 "C:\Program Files (x86)\Inform 7\Internal\Miscellany\Cover.jpg"
 
 ! Placeholder variables
 
-placeholder [IFID] = "0DCB455D-FF57-4369-877C-6B7229F9DD59"
+placeholder [IFID] = "8F1C0F68-A8A2-446E-A8AD-9ABC954F957E"
 placeholder [RELEASE] = "1"
 placeholder [YEAR] = "2018"
-placeholder [TITLE] = "nightmare"
-placeholder [AUTHOR] = "group"
+placeholder [TITLE] = "Albtraum"
+placeholder [AUTHOR] = "Kübra Sariyar"
 placeholder [BLURB] = "A work of interactive fiction."
 
 ! Other material to release

@@ -2,12 +2,12 @@
 <ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
     <story>
         <identification>
-            <ifid>0DCB455D-FF57-4369-877C-6B7229F9DD59</ifid>
+            <ifid>8F1C0F68-A8A2-446E-A8AD-9ABC954F957E</ifid>
             <format>glulx</format>
         </identification>
         <bibliographic>
-            <title>nightmare</title>
-            <author>group</author>
+            <title>Albtraum</title>
+            <author>Kübra Sariyar</author>
             <headline>An Interactive Fiction</headline>
             <genre>Fiction</genre>
             <firstpublished>2018</firstpublished>
