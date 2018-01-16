@@ -1,0 +1,2 @@
+ERROR: Compilation error.
+ERROR: Internal code generation failure.
